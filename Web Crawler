@@ -64,4 +64,4 @@ def crawl_web(seed):
             crawled.append(page)
     return index
 
-#print crawl_web("https://next.youngcapital.nl")
+#print get_page("https://next.youngcapital.nl")
