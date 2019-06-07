@@ -1386,7 +1386,7 @@ def get_page(url):
             <div class="container">
               <div class="card card--secondary card--top">
                 <div class="card__body">
-                  <h2 class="mb-2x mt-1x mt-sm-0">Kosteloos een opleiding volgen met salaris én baangarantie</h2>
+                  <h2 class="mb-2x mt-1x mt-sm-0">Kosteloos een opleiding volgen met salaris Ã©n baangarantie</h2>
                     <div class="read--less">
                       <p>Wel doorleren onder begeleiding, geen studiekosten betalen. Het kan bij YoungCapital NEXT, met een traineeship of hbo-opleiding. Je combineert studeren met werken, want van de praktijk leer je het meest. Oh, en natuurlijk krijg je daar gewoon salaris voor. <a href='javascript:void(0);' data-read-more-target="#Read_More_Desktop" class="read--extender hidden-xs text--bold">Lees meer</a> <i class="read--extender-icon nyc-icon nyc-icon-arrow-down hidden-xs"></i> <a href='javascript:void(0);' data-read-more-target="#Read_More_Mobile" class="read--extender hidden-sm hidden-md hidden-lg text--bold">Lees meer</a> <i class="read--extender-icon nyc-icon nyc-icon-arrow-down hidden-sm hidden-md hidden-lg"></i></p>
                       
@@ -1425,7 +1425,7 @@ def get_page(url):
                     <div class="col-xs-12 col-sm-10 col-md-6">
                       <ul class="list list--checkmarks">
                         <li>Doorleren en werken tegelijk</li>
-                        <li>Belangrijke diploma’s en certificaten halen</li>            
+                        <li>Belangrijke diplomaÂ’s en certificaten halen</li>            
                         <li>De nieuwste skills leren van de beste trainers</li>
                       </ul>
                     </div>
@@ -1433,7 +1433,7 @@ def get_page(url):
                       <ul class="list list--checkmarks">
                         <li>Binnenkomen bij de grootste bedrijven</li>
                         <li>Persoonlijke groei door intensieve coaching</li>
-                        <li>Géén opleidingskosten, wél salaris</li>
+                        <li>GÃ©Ã©n opleidingskosten, wÃ©l salaris</li>
                       </ul>
                     </div>
                   </div>
@@ -1451,7 +1451,7 @@ def get_page(url):
                         <h2 class="mb-1x h3">Software development</h2>
                         <div class="pb-3x">
                           <p>
-                            Bij deze hbo-opleiding software development geen verouderde theorie, maar kennis die je in de praktijk nodig hebt. Ga betaald aan de slag bij een tof bedrijf en één dag per week naar school. Haal je hbo-diploma, mét vier jaar werkervaring. En nul studieschuld.
+                            Bij deze hbo-opleiding software development geen verouderde theorie, maar kennis die je in de praktijk nodig hebt. Ga betaald aan de slag bij een tof bedrijf en Ã©Ã©n dag per week naar school. Haal je hbo-diploma, mÃ©t vier jaar werkervaring. En nul studieschuld.
                           </p>
                         </div>
                         <a class="btn btn--primary btn--wide card__button" href="/hbo-opleidingen/ict-software-development">Check hbo-opleiding </a>
@@ -1521,7 +1521,7 @@ def get_page(url):
                             <div>
                                 <strong class="text--bold">&#39;Zonder dit traineeship was ik niet aangenomen voor de job&#39;</strong>
                               <p>
-                                Als trainee starten is echt een aanrader voor jongeren die meteen aan de slag willen of die een carrièreswitch maken. Als je niet precies weet wat je wilt, heb je anderhalf jaar de tijd om uit te zoeken of het écht iets voor je is. Je moet wel leergierig zijn en zelfstandig kunnen werken, want succes komt niet vanzelf. 
+                                Als trainee starten is echt een aanrader voor jongeren die meteen aan de slag willen of die een carriÃ¨reswitch maken. Als je niet precies weet wat je wilt, heb je anderhalf jaar de tijd om uit te zoeken of het Ã©cht iets voor je is. Je moet wel leergierig zijn en zelfstandig kunnen werken, want succes komt niet vanzelf. 
                                   <a alt="Lees meer" href="https://next.youngcapital.nl/ervaringen/finance-traineeship-wha-ho-kruis">Lees meer</a>
                               </p>
 
@@ -1538,7 +1538,7 @@ def get_page(url):
                             <div>
                                 <strong class="text--bold">&#39;De persoonlijke aandacht is hier echt&#39;</strong>
                               <p>
-                                Op de werkvloer leer ik veel van het contact met mijn collega’s en klanten.  Je bent bij YoungCapital NEXT continu bezig met je soft skills en de ontwikkeling daarvan. Daarover heb ik vaak contact met mijn persoonlijke coach. Dat geeft zelfvertrouwen en zorgt ervoor dat ik mijn werk beter doe.
+                                Op de werkvloer leer ik veel van het contact met mijn collegaÂ’s en klanten.  Je bent bij YoungCapital NEXT continu bezig met je soft skills en de ontwikkeling daarvan. Daarover heb ik vaak contact met mijn persoonlijke coach. Dat geeft zelfvertrouwen en zorgt ervoor dat ik mijn werk beter doe.
                               </p>
 
                               <p>
@@ -1584,9 +1584,9 @@ def get_page(url):
                               <img draggable="false" src="https://youngcapital-uploads-production.s3.amazonaws.com/uploads/testimonial/image/0000/0021/Portret_Ozlem.jpg" />
 
                             <div>
-                                <strong class="text--bold">‘Ik zou iedereen aanraden om zichzelf te challengen’</strong>
+                                <strong class="text--bold">Â‘Ik zou iedereen aanraden om zichzelf te challengenÂ’</strong>
                               <p>
-                                 Ik zou mezelf wel ‘fan’ noemen van Take Charge. Het is een zoektocht naar je persoonlijkheid. Als je werkt, ontwikkel je natuurlijk wel op vakinhoudelijk gebied, maar je persoonlijkheid wordt vaak vergeten. Terwijl dat zo belangrijk is. 
+                                 Ik zou mezelf wel Â‘fanÂ’ noemen van Take Charge. Het is een zoektocht naar je persoonlijkheid. Als je werkt, ontwikkel je natuurlijk wel op vakinhoudelijk gebied, maar je persoonlijkheid wordt vaak vergeten. Terwijl dat zo belangrijk is. 
                                   <a alt="Lees meer" href="https://next.youngcapital.nl/ervaringen/finance-traineeship-ozlem-ceylan-sahin">Lees meer</a>
                               </p>
 
@@ -1601,7 +1601,7 @@ def get_page(url):
                               <img draggable="false" src="https://youngcapital-uploads-production.s3.amazonaws.com/uploads/testimonial/image/0000/0022/Joy_2.JPG" />
 
                             <div>
-                                <strong class="text--bold">‘Ik ben niet een type dat in de schoolbanken hangt&#39;</strong>
+                                <strong class="text--bold">Â‘Ik ben niet een type dat in de schoolbanken hangt&#39;</strong>
                               <p>
                                 Als je niet zeker weet dat programmeren is wat je wilt, moet je niet aan deze opleiding beginnen. Maar is dit wat je wilt, dan leer je hier veel meer dan op andere hogescholen. We komen in aanraking met robotisering, AI en krijgen ook vakken als Blockchain. Maar het belangrijkste vind ik de werkervaring die ik opdoe. 
                                   <a alt="Lees meer" href="https://next.youngcapital.nl/ervaringen/hbo-software-development-joy-droogsma">Lees meer</a>
@@ -1618,7 +1618,7 @@ def get_page(url):
                               <img draggable="false" src="https://youngcapital-uploads-production.s3.amazonaws.com/uploads/testimonial/image/0000/0025/Tom_2.JPG" />
 
                             <div>
-                                <strong class="text--bold">‘Praktijk met theorie, daar was ik naar op zoek’</strong>
+                                <strong class="text--bold">Â‘Praktijk met theorie, daar was ik naar op zoekÂ’</strong>
                               <p>
                                 Op de universiteit schreef ik papers die in de oud-papierbak verdwenen. Nu bouw ik aan een applicatie die mensen echt gebruiken. Dat praktijkgerichte is precies wat ik zocht. Sommige dingen leer je gewoon niet uit een boek. Van tevoren had ik niet kunnen zeggen dat ik de dingen die ik nu maak al na een halfjaar zou kunnen.
                                   <a alt="Lees meer" href="https://next.youngcapital.nl/ervaringen/hbo-software-development-tom-eding">Lees meer</a>
@@ -1839,9 +1839,9 @@ def get_page(url):
                     <div class="col-xs-12 col-md-6 pb-8x pb-sm-1x pb-md-0 end-md">
                       <br class="hidden-sm hidden-md hidden-lg">
                       <p class="copyright">
-                        © 2019 •
-                        KvK nr: 61267317 •
-                        <a href="/over-yc/algemenevoorwaarden">Algemene voorwaarden</a> •
+                        Â© 2019 Â•
+                        KvK nr: 61267317 Â•
+                        <a href="/over-yc/algemenevoorwaarden">Algemene voorwaarden</a> Â•
                         <a href="https://www.youngcapital.nl/over-yc/privacyverklaring">Privacy</a>
                       </p>
                     </div>
@@ -2124,7 +2124,7 @@ def get_page(url):
                             csat_yes: "Ja",
                             csat_no: "Nee",
                             push_notify_yes: "Aan",
-                            push_notify_no: "Uit’",
+                            push_notify_no: "UitÂ’",
                             tab_faq: "FAQ",
                             tab_chat: "Chat",
                             csat_submit: "Toevoegen"
@@ -2271,4 +2271,4 @@ def crawl_web_max_depth(seed, max_depth):
             depth = depth + 1
     return crawled
 
-print crawl_web_max_pages(get_page("https://next.youngcapital.nl/"), 7)
+print get_all_links(get_page("https://next.youngcapital.nl/")
