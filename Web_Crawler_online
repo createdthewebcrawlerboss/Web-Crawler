@@ -90,10 +90,16 @@ def crawl_web_max_depth(seed, max_depth):
             depth = depth + 1
     return crawled
 
-add_to_index(index, "fly", "https://en.wikipedia.org/wiki/Fly")
-add_to_index(index, "Java", "https://next.youngcapital.nl")
-add_to_index(index, "encyclopedia", "https://en.wikipedia.org/wiki/Main_Page")
-add_to_index(index, "Java", "http://udacity.com")
-add_to_index(index, "fly", "https://udacity.github.io/cs101x/index.html")
-add_to_index(index, "Mathematics", "https://en.wikipedia.org/wiki/Main_Page")
-print index
+# print get_all_links(get_page("https://next.youngcapital.nl/"))
+
+# add_to_index(index, "fly", "https://en.wikipedia.org/wiki/Fly")
+# add_to_index(index, "Java", "https://next.youngcapital.nl")
+# add_to_index(index, "encyclopedia", "https://en.wikipedia.org/wiki/Main_Page")
+# add_to_index(index, "Java", "http://udacity.com")
+# add_to_index(index, "fly", "https://udacity.github.io/cs101x/index.html")
+# add_to_index(index, "Mathematics", "https://en.wikipedia.org/wiki/Main_Page")
+# print index
+
+# index = [['udacity', ['http://udacity.com', 'http://npr.org']],
+#         ['computing', ['http://acm.org']]]
+# print lookup(index, "udacity")
