@@ -2213,6 +2213,7 @@ def union(list_one, list_two):
         if e not in list_one:
             list_one.append(e)
 
+index = []
 def add_to_index(index, keyword, url):
     index = []
     for entry in index:
